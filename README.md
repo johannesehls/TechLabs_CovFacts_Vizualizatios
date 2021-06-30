@@ -1,1 +1,1 @@
-# TechLabs_CovFacts_Vizualizatios
+# TechLabs_CovFacts_Vizualizations
